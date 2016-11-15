@@ -1,4 +1,5 @@
 <resources>
+    <string name="about">About</string>
     <string name="app_name">Calculator</string>
     <string name="btn_c">C</string>
     <string name="btn_del">DEL</string>
@@ -19,4 +20,6 @@
     <string name="btn_add">+</string>
     <string name="btn_equ">=</string>
     <string name="errer_info">Error!</string>
+    <string name="unknown">Unknown</string>
+    <string name="verion_info">Version: %s \n Designer: </string>
 </resources>
