@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorBtnText">#FF000000</color>
     <color name="colorDigitalBtnNormal">#D0DCE3</color>
     <color name="colorDigitalBtnPressed">#BED1DB</color>
     <color name="colorPrimary">#3F51B5</color>
